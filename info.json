@@ -1,1 +1,38 @@
+{"name":"Data Driven Sci&Tech IP Marketplace",
+"tokenSymbol":" ",
+"DaoOS":"Snapshot",
+"address":"",
+"description": "RMDS Lab created the world’s first NFT marketplace for science IPs, in combination with its RMDS Ecosystem to solve the four big problems all scientists face: funding difficulties, high project failure, low IP utilization, and the replication crisis. Our RMDS platform allows RMDS to serve scientists worldwide to make them more impactful, while also serve investors and collectors of science and technology IPs.",
 
+"whitePaperLink":"https://www.rmdslab.com/nft-report-2022/",
+"gallery":[{
+       "name": "Intro",
+       "description": "Intro",
+       "mediaUrl": "https://i.imgur.com/utcu5xu.jpg",
+       "source": "image",
+       "link": "https://www.chemistryworld.com/news/worlds-first-nft-marketplace-for-science-and-tech-ip-to-launch-in-march/4015052.article"
+   },  {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://i.imgur.com/SvY3eXX.pnghttps://i.imgur.com/SvY3eXX.png",        "source": "image",
+       "link": " https://appdevelopermagazine.com/nft-marketplace-launches-from-rmds-lab/"  },
+ {"name": "Intro",
+       "description": "Intro",
+       "mediaUrl": " https://i.imgur.com/25wJXMu.jpg",     
+"source": "image",
+       "link": "https://newsbtc.com/all/rmds-lab-a-new-nft-marketplace-for-science-and-tech-ip/"  }
+],
+"deleted":false,
+"primaryColor":"#4c8de4",
+"twitterHandle":"https://twitter.com/RMDSlab",
+"coingeckoId":"",
+"snapshotId":"",
+"logo":"https://i.imgur.com/GVdP6SU.jpg",
+"telegramLink":"",
+"discordLink":"",
+"website":"https://rmdsnft.com/",
+"tokenDescription":"",
+"tokenTradeLink":"",
+
+"tags":["Ecosystems", "NFTs", "Decentralized funding"]
+  
+}
